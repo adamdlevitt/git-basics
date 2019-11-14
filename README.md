@@ -1,3 +1,3 @@
 # git-basics
 README
-I've ain't tellin ya nothin
+I ain't tellin ya nothin
